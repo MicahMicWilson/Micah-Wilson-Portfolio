@@ -1,7 +1,7 @@
 # Hi, I'm Mic 👋
 
 
-Senior IT Management & Service Desk Leader • USAF Veteran • Cyber Integrations & Information and Audio Video Systems
+Senior IT Management & Service Desk Leader • Cyber Integrations & Service Delivery • US Air Force Veteran
 
 
 [![GitHub followers](https://img.shields.io/github/followers/MicahMicWilson?label=Follow&style=social)](https://github.com/MicahMicWilson)
