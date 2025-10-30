@@ -35,7 +35,7 @@ I build resilient IT service organizations and reliable media/broadcast systems.
 
 ## Get in Touch
 - 💼 LinkedIn: https://www.linkedin.com/in/micahmwilson
-- ✉️ Email: your.email@example.com
+- ✉️ Email: mic_h_wilson@outlook.com
 
 
 ---
