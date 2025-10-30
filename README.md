@@ -8,12 +8,12 @@ Senior IT Management & Service Desk Leader • USAF Veteran • Cyber Integratio
 [![Visits](https://komarev.com/ghpvc/?username=MicahMicWilson)](https://github.com/MicahMicWilson)
 
 
-I build resilient IT service organizations and reliable media/broadcast systems. After 23 years in the U.S. Air Force leading cross‑functional teams, I specialize in ITSM, infrastructure modernization, and secure communications—aligning operations with ITIL 4, ISO, and NIST frameworks. I love shipping practical solutions, mentoring teams, and turning chaos into clarity.
+I build resilient IT service organizations and reliable media/broadcast systems. After 23 years in the U.S. Air Force leading cross‑functional teams, I specialize in ITSM, infrastructure modernization, and secure communications—aligning operations with industry standards. I love shaping practical solutions, mentoring teams, and guiding chaos into clarity.
 
 
-- 🔭 **Now**: Transitioning to civilian IT leadership; exploring media systems engineering and platform operations.
+- 🔭 **Now**: Transitioning to civilian IT leadership; exploring IT service delivery management and platform operations.
 - 🎮 **Fun**: Lifelong gamer (NBA 2K fan) who geeks out on automation and clean incident/problem flows.
-- 🛰️ **Background**: Broadcast engineering, SCIF/ICD‑705 projects, VIIDS security systems, and enterprise service desks.
+- 🛰️ **Background**: Electronics Engineering, Special Security Management, Intrusion Detection Systems, and Enterprise Service Desk Management.
 - 🌱 **Learning**: Modern DevOps tooling, observability, and cloud‑native service management.
 
 
